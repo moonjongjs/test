@@ -1,0 +1,1 @@
+git remote set-url origin https://moonjongjs@github.com/[리파지토리주소]REPOSITORY.git
